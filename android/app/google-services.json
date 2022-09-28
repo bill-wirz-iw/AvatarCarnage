@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "420807831404",
+    "firebase_url": "https://acn-mobileacademylaunchpad-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "acn-mobileacademylaunchpad",
+    "storage_bucket": "acn-mobileacademylaunchpad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420807831404:android:2e91d1b3847e6a9d5f0d49",
+        "android_client_info": {
+          "package_name": "com.awesometsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mv5ZOrHv_wgXpU6_VZHIo4kF-vhBZkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420807831404-0nne39a29llu41hulcghqrbb4p1be79e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinityworks.iwirl-am"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420807831404:android:43c200c1330eb45e5f0d49",
+        "android_client_info": {
+          "package_name": "com.battleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mv5ZOrHv_wgXpU6_VZHIo4kF-vhBZkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420807831404-0nne39a29llu41hulcghqrbb4p1be79e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinityworks.iwirl-am"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420807831404:android:2abcefadd2ba879e5f0d49",
+        "android_client_info": {
+          "package_name": "com.catbattler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420807831404-c0b6cfvsn76jmkptjoosvuf023h548ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catbattler",
+            "certificate_hash": "f613ff81def178b2043f6463c833860114eadb4b"
+          }
+        },
+        {
+          "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mv5ZOrHv_wgXpU6_VZHIo4kF-vhBZkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420807831404-0nne39a29llu41hulcghqrbb4p1be79e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinityworks.iwirl-am"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420807831404:android:8b7626d3e1d39e805f0d49",
+        "android_client_info": {
+          "package_name": "com.exampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mv5ZOrHv_wgXpU6_VZHIo4kF-vhBZkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420807831404-0nne39a29llu41hulcghqrbb4p1be79e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinityworks.iwirl-am"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420807831404:android:9d22626a5f243fec5f0d49",
+        "android_client_info": {
+          "package_name": "com.foodbattler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mv5ZOrHv_wgXpU6_VZHIo4kF-vhBZkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420807831404-0nne39a29llu41hulcghqrbb4p1be79e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinityworks.iwirl-am"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420807831404:android:883eb8ae06131f395f0d49",
+        "android_client_info": {
+          "package_name": "com.launchpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mv5ZOrHv_wgXpU6_VZHIo4kF-vhBZkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420807831404-s2nt9q9ke3t88j70c92ilktn7hbk89ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420807831404-0nne39a29llu41hulcghqrbb4p1be79e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinityworks.iwirl-am"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
