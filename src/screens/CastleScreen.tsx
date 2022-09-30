@@ -1,5 +1,5 @@
 import React, {useCallback, useEffect, useState} from 'react';
-import {Text, Button, Image, StyleSheet} from 'react-native';
+import {Text, Button, Image, StyleSheet, View} from 'react-native';
 import Layout from '../components/Layout';
 import analytics from '@react-native-firebase/analytics';
 import auth from '@react-native-firebase/auth';
@@ -69,7 +69,7 @@ const CastleScreen = () => {
         <Text>Behold, thy mighty host:</Text>
         {army.map((pokemonSoldier, index) => {
           return (
-            <>
+            <View key={`name-${index}`}>
               <Text key={`name-${index}`}>
                 {pokemonSoldier.pokemonDisplayName}
               </Text>
@@ -78,7 +78,7 @@ const CastleScreen = () => {
                 style={styles.basicImage}
                 source={{uri: pokemonSoldier.pokemonImageUrl}}
               />
-            </>
+            </View>
           );
         })}
       </>

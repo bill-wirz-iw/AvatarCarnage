@@ -5,6 +5,7 @@ import LoginScreen from '../screens/LoginScreen';
 import RegisterScreen from '../screens/RegisterScreen';
 import store from '../store/index';
 import BattleArena from '../screens/BattleArenaScreen';
+import Debug from '../screens/DebugScreen';
 
 export type OnboardingParamList = {
   Login: undefined;
@@ -14,6 +15,7 @@ export type OnboardingParamList = {
 export type AuthenticatedParamList = {
   Castle: undefined;
   BattleArena: undefined;
+  Debugging: undefined;
 };
 
 const OnboardingTabNavigator =
@@ -36,6 +38,7 @@ const RootStack = () => {
         name="BattleArena"
         component={BattleArena}
       />
+      <AuthenticatedTabNavigator.Screen name="Debugging" component={Debug} />
     </AuthenticatedTabNavigator.Navigator>
   ) : (
     <OnboardingTabNavigator.Navigator

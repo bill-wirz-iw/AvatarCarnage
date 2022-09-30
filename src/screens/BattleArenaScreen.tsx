@@ -51,7 +51,6 @@ const BattleArena = () => {
 
   const scanQRCode = useCallback(
     (scanEvent: BarCodeReadEvent) => {
-      console.log('scanEvent data: ', scanEvent.data);
       setAcceptingChallenge(false);
       battle(scanEvent.data);
     },
